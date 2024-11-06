@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Dev, JavaScript, Express JS**
 
-- 📫 How to reach me **kartikhegde365@gmail.com**
+- 📫 How to reach me **joelajithomas@gmail.com**
 
 - ⚡ Fun fact **Cinephile|Gamer We can talk about Games, Movies and Coding for hours**
 
